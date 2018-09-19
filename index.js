@@ -1,1 +1,1 @@
-import './main.less'
+import './dist/index.css'
